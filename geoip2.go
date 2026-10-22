@@ -13,7 +13,7 @@ import (
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
 	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
 	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/zhangjiayin/caddy-geoip2/replacer"
+	"github.com/ishrakr/caddy-geoip2/replacer"
 	"go.uber.org/zap"
 )
 

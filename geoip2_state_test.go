@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/caddyserver/caddy/v2"
-	"github.com/zhangjiayin/caddy-geoip2/replacer"
+	"github.com/ishrakr/caddy-geoip2/replacer"
 )
 
 func TestModuleConstructorsReturnDistinctInstances(t *testing.T) {

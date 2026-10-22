@@ -19,7 +19,7 @@ import (
 	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
 	"github.com/maxmind/geoipupdate/v4/pkg/geoipupdate"
 	"github.com/maxmind/geoipupdate/v4/pkg/geoipupdate/database"
-	"github.com/zhangjiayin/caddy-geoip2/replacer"
+	"github.com/ishrakr/caddy-geoip2/replacer"
 	"go.uber.org/zap"
 )
 
